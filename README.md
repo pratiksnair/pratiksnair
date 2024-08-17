@@ -1,5 +1,5 @@
 
-![ASCII-art](https://github.com/user-attachments/assets/6db144e6-d77a-45a4-914a-889efffd8d7a)
+ascii-generator.site/r/WKKIHD/
 **OS:** Windows 10, iOS  
 **Uptime:** 22 years, 1 month, 12 days  
 **Host:** [Rochester Institute of Technology](https://www.rit.edu) #RIT  
