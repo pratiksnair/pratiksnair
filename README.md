@@ -1,42 +1,23 @@
-         ______  _______ _______ _______ _     _ 
-        (____  \(_______|_______|_______|_)   (_)
-         ____)  )  _    _       _____    _______ 
-        |  __  (| | |  | |     |  ___)  |  ___  |
-        | |__)  ) | |  | |     | |____ _| |   | |
-        |______/|_|_|  |_|     |_______|_|   |_|
-        
-         GitHub Profile: @YourUsername
+OS: macOS  
+Host: Arizona State University  
+Kernel: Computer Science
 
-████████████████████████████████████████████████
-███     ~ Personal Attributes Summary ~     ███
-████████████████████████████████████████████████
+Languages.Programming: Python, JavaScript, TypeScript, Java, C++, R, MATLAB  
+Languages.Web: HTML, CSS
 
-User:               Your Name
-Alias:              @YourUsername
-Occupation:         Developer / Student / Engineer
-Location:           Your City, Your Country
-Languages:          Python, JavaScript, C#, SQL
-Interests:          AI, Web Dev, Gaming, Tech
+Frameworks: Next.js, React.js, Prisma, TailwindCSS, Node.js  
+Databases: PostgreSQL  
+Tools: Git, GitHub, Docker (CI/CD with GitHub Actions)
 
-████████████████████████████████████████████████
-███     ~ Development Environment ~         ███
-████████████████████████████████████████████████
+Experience:
+- Software Engineering Intern at OK Health
+- Lichen Herbarium Research Aide at ASU
 
-Editor:             VS Code / PyCharm
-Terminal:           Bash / Zsh
-Version Control:    Git
-Tools:              Docker, Flask, Django
-OS:                 Linux / Windows / MacOS
-Laptop:             Your Laptop Model
-Favorite Project:   Name of a Cool Project
+Achievements:
+- Runner Up at MakeHarvard 2024
+- Sustainability Track Winner at YHacks (Yale University)
+- Participated in LA Hacks (UCLA)
 
-████████████████████████████████████████████████
-███     ~ Contact & Social ~                 ███
-████████████████████████████████████████████████
-
-GitHub:             [@YourUsername](https://github.com/YourUsername)
-LinkedIn:           [Your Name](https://linkedin.com/in/yourprofile)
-Email:              your.email@example.com
-Blog:               [Your Blog](https://yourblog.com)
-
-████████████████████████████████████████████████
+Email: marora16@asu.edu
+Twitter/X : aroramri
+GitHub: aroramrinaal
