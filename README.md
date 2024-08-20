@@ -1,28 +1,24 @@
 ```
-OS: macOS  
-Host: Arizona State University  
+OS: Windows, Android  
+Host: Mumbai University  
 Kernel: Computer Science
 
-Languages.Programming: Python, JavaScript, TypeScript, Java, C++, R, MATLAB  
+Languages.Programming: Python, JavaScript, C#, Java, C++, C  
 Languages.Web: HTML, CSS
 
-Frameworks: Next.js, React.js, Prisma, TailwindCSS, Node.js  
-Databases: PostgreSQL  
-Tools: Git, GitHub, Docker (CI/CD with GitHub Actions)
-
-Experience:
-- Software Engineering Intern at OK Health
-- Lichen Herbarium Research Aide at ASU
+Frameworks: Next.js, React.js, Node.js  
+Databases: MongoDB, Firebase, MySQL  
 
 Achievements:
-- Runner Up at MakeHarvard 2024
-- Sustainability Track Winner at YHacks (Yale University)
-- Participated in LA Hacks (UCLA)
+- First Place Winner for Logo Mania at MET TechFest 2024
 
-Email: marora16@asu.edu
-Twitter/X : aroramri
-GitHub: aroramrinaal
+Email: pratiksnair@gmail.com
 ```
 <div align="center">
   <!--<img src="https://github.com/user-attachments/assets/9344ffe1-a7e6-4e90-bcee-e5f3ab84c1d8" alt="Krishna Arjun wallpaper" width="1018" style="border-radius: 15px;"/>  -->
+
+  <!--<img src=/ Experience:
+- Software Engineering Intern at OK Health>  -->
+
 </div>
+
