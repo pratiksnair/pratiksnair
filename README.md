@@ -29,7 +29,7 @@
 
 <!-- ░░░░░░░░░░░░░░░  PROFILE BADGES  ░░░░░░░░░░░░░░░ -->
 <a href="https://github.com/pratiksnair">
-  <img src="https://badgen.net/github/followers/pratiksnair?icon=github&label=Followers&color=00d4ff" alt="GitHub Followers"/>
+  <img src="https://badgen.net/github/stars/micromatch/micromatch" alt="GitHub Stars"/>
 </a>
 &nbsp;
 <a href="https://github.com/pratiksnair?tab=repositories">
