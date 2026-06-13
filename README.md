@@ -104,9 +104,6 @@ bio         : >
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="28"/> &nbsp;Tech Stack
 
-<!-- Languages & Frameworks -->
-### `// Languages & Frameworks`
-
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00d4ff)
 ![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=00d4ff)
 ![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00d4ff)
@@ -115,16 +112,7 @@ bio         : >
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=00d4ff)
 ![Keras](https://img.shields.io/badge/Keras-0d1117?style=for-the-badge&logo=keras&logoColor=7ecfff)
 ![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=00d4ff)
-
-<!-- AI / ML / LLMs -->
-### `// AI · ML · LLMs`
-
-![LLM Integration](https://img.shields.io/badge/LLM%20Integration-0d1117?style=for-the-badge&logo=openai&logoColor=00d4ff)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-0d1117?style=for-the-badge&logo=openai&logoColor=7ecfff)
-![CNN](https://img.shields.io/badge/CNN-0d1117?style=for-the-badge&logo=pytorch&logoColor=00d4ff)
-![MobileNet SSD](https://img.shields.io/badge/MobileNet%20SSD-0d1117?style=for-the-badge&logo=tensorflow&logoColor=7ecfff)
-![OCR](https://img.shields.io/badge/OCR-0d1117?style=for-the-badge&logo=googlelens&logoColor=00d4ff)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-0d1117?style=for-the-badge&logo=opencv&logoColor=00d4ff)
 
 <!-- Test & Automation -->
 ### `// Test & Automation`
@@ -132,11 +120,8 @@ bio         : >
 ![JUnit 5](https://img.shields.io/badge/JUnit%205-0d1117?style=for-the-badge&logo=junit5&logoColor=00d4ff)
 ![GTest](https://img.shields.io/badge/GTest-0d1117?style=for-the-badge&logo=google&logoColor=7ecfff)
 ![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-0d1117?style=for-the-badge&logo=python&logoColor=00d4ff)
-![ADB](https://img.shields.io/badge/ADB-0d1117?style=for-the-badge&logo=android&logoColor=7ecfff)
 ![AOSP](https://img.shields.io/badge/AOSP-0d1117?style=for-the-badge&logo=android&logoColor=00d4ff)
 ![CTS/VTS](https://img.shields.io/badge/CTS%2FVTS-0d1117?style=for-the-badge&logo=android&logoColor=7ecfff)
-![API Mocking](https://img.shields.io/badge/API%20Mocking-0d1117?style=for-the-badge&logo=postman&logoColor=00d4ff)
-
 <!-- DevOps & Cloud -->
 ### `// DevOps & Cloud`
 
@@ -146,8 +131,6 @@ bio         : >
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00d4ff)
 ![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=7ecfff)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD%20Pipelines-0d1117?style=for-the-badge&logo=githubactions&logoColor=00d4ff)
-![lcov](https://img.shields.io/badge/lcov-0d1117?style=for-the-badge&logo=linux&logoColor=7ecfff)
-
 <!-- Automotive & Security -->
 ### `// Automotive & Cybersecurity`
 
