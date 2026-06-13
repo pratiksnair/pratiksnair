@@ -4,9 +4,6 @@
 
 <div align="center">
 
-<!-- ░░░░░░░░░░░░░░░  ANIMATED HEADER  ░░░░░░░░░░░░░░░ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:003554,80:00a8cc,100:00d4ff&height=220&section=header&text=PRATIK%20NAIR&fontSize=54&fontColor=e0f7ff&fontAlignY=40&animation=twinkling&desc=Software%20Engineer%20%E2%80%A2%20Automotive%20Cybersecurity%20%E2%80%A2%20ML%20Builder&descAlignY=62&descSize=16&descColor=7ecfff" />
-
 <!-- ░░░░░░░░░░░░░░░  BANNER (replace src with your image)  ░░░░░░░░░░░░░░░ -->
 <!--
   ┌─────────────────────────────────────────────────────────┐
