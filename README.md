@@ -55,8 +55,8 @@
 
 ```yaml
 name        : Pratik Nair
-location    : "Building in the shadows 🌑"
-focus       : [ "Secure Software", "Automotive Cyber", "ML Apps" ]
+location    : Bengaluru | Mumbai
+focus       : ["Automotive CyberSecurity"]
 currently   : "FastAPI microservices + real-time AI"
 bio         : >
   I build secure, production-ready software in
@@ -74,6 +74,29 @@ bio         : >
 </td>
 </tr>
 </table>
+
+---
+<!-- ░░░░░░░░░░░░░░░  GITHUB STATS  ░░░░░░░░░░░░░░░ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28"/> &nbsp;GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/pratiksnair">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pratiksnair&show_icons=true&theme=transparent&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=7ecfff&bg_color=0d1117&ring_color=0099cc&include_all_commits=true&count_private=true" />
+</a>
+&nbsp;
+<a href="https://github.com/pratiksnair">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratiksnair&layout=compact&theme=transparent&hide_border=true&title_color=00d4ff&text_color=7ecfff&bg_color=0d1117&langs_count=8" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/pratiksnair">
+  <img src="https://streak-stats.demolab.com?user=pratiksnair&theme=transparent&hide_border=true&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=7ecfff&currStreakNum=e0f7ff&dates=7ecfff&background=0d1117&stroke=003554" alt="GitHub Streak"/>
+</a>
+
+</div>
 
 ---
 
@@ -149,29 +172,6 @@ bio         : >
 
 ---
 
-<!-- ░░░░░░░░░░░░░░░  GITHUB STATS  ░░░░░░░░░░░░░░░ -->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28"/> &nbsp;GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/pratiksnair">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pratiksnair&show_icons=true&theme=transparent&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=7ecfff&bg_color=0d1117&ring_color=0099cc&include_all_commits=true&count_private=true" />
-</a>
-&nbsp;
-<a href="https://github.com/pratiksnair">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratiksnair&layout=compact&theme=transparent&hide_border=true&title_color=00d4ff&text_color=7ecfff&bg_color=0d1117&langs_count=8" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/pratiksnair">
-  <img src="https://streak-stats.demolab.com?user=pratiksnair&theme=transparent&hide_border=true&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=7ecfff&currStreakNum=e0f7ff&dates=7ecfff&background=0d1117&stroke=003554" alt="GitHub Streak"/>
-</a>
-
-</div>
-
----
 
 <!-- ░░░░░░░░░░░░░░░  CONTRIBUTION SNAKE  ░░░░░░░░░░░░░░░ -->
 
