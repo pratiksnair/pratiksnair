@@ -111,9 +111,6 @@ bio         : >
   </picture>
 </div>
 
-> **Tip:** To enable the snake animation, add a GitHub Actions workflow in your profile repo (see [Platane/snk](https://github.com/Platane/snk)).
-
-
 <!-- ░░░░░░░░░░░░░░░  TECH STACK  ░░░░░░░░░░░░░░░ -->
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="28"/> &nbsp;Tech Stack
