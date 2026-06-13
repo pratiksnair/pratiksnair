@@ -172,6 +172,6 @@ bio         : >
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,60:003554,100:0d1117&height=140&section=footer&animation=twinkling" />
 
-*Crafted with code, caffeine, and a bit of chaos.*
+*Keep Visiting !!*
 
 </div>
