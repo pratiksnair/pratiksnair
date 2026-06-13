@@ -170,20 +170,6 @@ bio         : >
 
 > **Tip:** To enable the snake animation, add a GitHub Actions workflow in your profile repo (see [Platane/snk](https://github.com/Platane/snk)).
 
----
-
-<!-- ░░░░░░░░░░░░░░░  ALGORA  ░░░░░░░░░░░░░░░ -->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="28"/> &nbsp;Algora Bounties
-
-<div align="center">
-  <a href="https://algora.io/pratiksnair" target="_blank">
-    <img src="https://algora.io/og/user/pratiksnair" alt="Pratik Nair on Algora" width="80%" style="border-radius:12px;"/>
-  </a>
-</div>
-
----
-
 <!-- ░░░░░░░░░░░░░░░  FOOTER  ░░░░░░░░░░░░░░░ -->
 
 <div align="center">
