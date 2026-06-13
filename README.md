@@ -16,7 +16,7 @@
 -->
 <a href="banner.jpg" target="_blank">
   <img
-    src="https://placehold.co/900x200/0d1117/00d4ff?text=YOUR+BANNER+HERE&font=montserrat"
+    src="banner.jpg"
     alt="Pratik Nair Banner"
     width="100%"
     style="border-radius:12px; margin: 10px 0;"
