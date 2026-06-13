@@ -14,7 +14,7 @@
   │  The image is hyperlinked to your GitHub profile         │
   └─────────────────────────────────────────────────────────┘
 -->
-<a href="https://github.com/pratiksnair" target="_blank">
+<a href="banner.jpg" target="_blank">
   <img
     src="https://placehold.co/900x200/0d1117/00d4ff?text=YOUR+BANNER+HERE&font=montserrat"
     alt="Pratik Nair Banner"
