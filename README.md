@@ -33,14 +33,11 @@
 </a>
 &nbsp;
 <a href="https://github.com/pratiksnair?tab=repositories">
-  <img src="https://badgen.net/github/public-repos/pratiksnair?icon=github&label=Public%20Repos&color=0099cc" alt="Public Repos"/>
+  <img src="https://badgen.net/github/commits/micromatch/micromatch" alt="Github Commits"/>
 </a>
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=pratiksnair&style=flat-square&color=00d4ff&label=PROFILE+VIEWS" alt="Profile Views"/>
 &nbsp;
-<a href="https://algora.io/pratiksnair">
-  <img src="https://img.shields.io/badge/Algora-Bounties-00d4ff?style=flat-square&logo=algora&logoColor=white" alt="Algora"/>
-</a>
 
 </div>
 
